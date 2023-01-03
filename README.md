@@ -29,28 +29,34 @@
 # TOOLS
 
 <div>
-<a href='https://www.naver.com/'><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+</div>
+
+</br>
+
+# LINK TO
+
+<div>
+<a href='https://trello.com/b/k1QJ1bBl/40%EA%B8%B0-niweke-1st-project'><img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
 
 </br>
 
 # STACK
 
-### 프론트엔드
+### F.E.
 
 |JavaScript|React|Sass|esLint|Prettier|
 | :--: | :--: | :--: | :--: | :--: |
 | <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /></div> | <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /> | <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /> |
 
 
-</br>
 
-### 백엔드
+### B.E.
 
 |JavaScript|Nodejs|MySql|Rest|
 | :--: | :--: | :--: | :--: |
