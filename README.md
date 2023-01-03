@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&text=NIWEKI&color=gradient)
 
-- 신발을 판매하는 웹페이지 모델링
+<h1>신발 웹페이지 모델링</h1>
 
 </br>
 
@@ -82,14 +82,18 @@
 - 검색창 input시 데이터 요청하여 검색명에 맞는 제품군 추출
 - 검색어를 입력하지 않거나 검색어에 맞지 않는 제품 검색시 각각 검색어를 입력, 검색된 제품이 없다는 메세지 출력 
 
-## 상세페이지 :
+## 상세페이지 
 - sticky 사용하여 제품 이미지만 스크롤 , 우측 제품 정보 상단 고정
 - 모달창 사용하여 제품 고지 설명
 - 커스텀 훅 사용하여 모달 바깥 부분 클릭시 모달 닫히는 기능
 
-## 메인페이지 :
+## 메인페이지
 - 전체 레이아웃 작업 진행
 - 메인 페이지 내에서 버튼 클릭시 상품 리스트 페이지로 이동
+- 스크롤 내리면 높이 값에 따라 fade in 효과
+
+</br>
+</br>
 
 ## 로그인
 - 로그인 시 이메일 및 비밀번호 조건을 통한 유효성 검사 구현
@@ -100,6 +104,10 @@
 - 회원가입 시 인풋 데이터 입력 양식에 따라 오류 발생 시 알림 메세지 출력
 - 회원가입 성공 시 Login 페이지로 이동
 - 로그인과 동일한 레이아웃 구성으로 컴포넌트화 하여 페이지 내에서 재사용
+
+
+</br>
+</br>
 
 ## 장바구니 
 - Local Storage에 저장된 JWT 확인 후, 장바구니에 담긴 상품 리스트 화면에 렌더링
@@ -115,5 +123,18 @@
 - 세부카테고리 클릭 시 쿼리스트링으로 해당 데이터 
 
 </br>
+
+------
+
 </br>
 
+# 구현 기능  FrontEnd
+
+| 로그인 | <img width=30% src=https://user-images.githubusercontent.com/83495141/209101283-702b0594-d54c-4911-951c-473a92909e9e.gif> |
+| :--: | :--: |
+| 회원가입 | <img width=30% src=https://user-images.githubusercontent.com/83495141/209101962-dc7215af-900e-44e8-8ed5-9cd8c733f563.gif> |
+| 메인페이지 | <img width=30% src=https://user-images.githubusercontent.com/83495141/209105050-41f8664b-ccfe-4df5-845a-1707e516efa8.gif> |
+| 카테고리(1) | <img width=30% src=https://user-images.githubusercontent.com/83495141/209111339-6c57937d-0ba0-4357-a167-349a7f8bfd7f.gif> |
+| 카테고리(2) | <img width=30% src=https://user-images.githubusercontent.com/83495141/209111354-c6fa638c-e311-4020-8344-e634d1c38478.gif> |
+| 상세 페이지 | <img width=30% src=https://user-images.githubusercontent.com/83495141/209106812-10d2854a-d5c6-4f61-a3e7-9d34ae1597c7.gif> |
+| 장바구니 | <img width=30% src="https://user-images.githubusercontent.com/83495141/209101932-7ea2ba02-32e7-40b7-849c-d0962bd6805d.gif"> |
