@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+<a href='https://trello.com/b/k1QJ1bBl/40%EA%B8%B0-niweke-1st-project'><img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white" /></a>
 </div>
 
 </br>
@@ -40,7 +41,6 @@
 # LINK TO 👉🏻
 
 <div>
-<a href='https://trello.com/b/k1QJ1bBl/40%EA%B8%B0-niweke-1st-project'><img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white" /></a>
 <a href='https://prairie-zipper-83c.notion.site/Team-Notion-b4495c87e78040c4958807d54115ee3f'><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 </div>
 
